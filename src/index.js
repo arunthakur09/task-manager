@@ -1,7 +1,6 @@
-// index.js or index.tsx
 import React from 'react';
-import ReactDOM from 'react-dom/client';  // Ensure correct import here
-import './index.css';
+import ReactDOM from 'react-dom/client';
+import './style.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 

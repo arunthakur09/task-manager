@@ -52,6 +52,3 @@ This is a simple task management application that allows users to create, update
 ## Assumptions
 - Tasks must have a title.
 - Status must be one of "To Do", "In Progress", or "Done".
-
-## Repository
-- [GitHub Repository](https://github.com/arunthakur09/full-stack-task-manager)
